@@ -21,7 +21,7 @@ npm start
 ```
 ## Para ver una demo visita el siguiente enlace.
 * [Buscar_Imagenes](https://buscador-de-imagenes-cing.vercel.app/)
-![alt text](https://github.com/cing1/buscador-de-imagenes/blob/master/public/captura.png?raw=true)
+![alt text](https://github.com/cing1/buscador-de-imagenes/blob/master/public/captura1.png?raw=true)
 
 
 ## Construido con:
