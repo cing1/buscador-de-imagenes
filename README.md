@@ -9,7 +9,7 @@ _ Proyecto creado en Reactjs para la busqueda de imágenes utiliznado la api de 
 ## Comenzando 🚀
 * Debes clonar este proyecto
 ```
-git clone https://github.com/navnelson7/buscar_imagenes
+git clone https://github.com/cing1/buscador-de-imagenes.git
 ```
 * Debes instalar las dependencias
 ```
@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 ## Para ver una demo visita el siguiente enlace.
-* [Buscar_Imagenes](https://practical-poitras-2aa571.netlify.app/)
+* [Buscar_Imagenes](https://buscador-de-imagenes-cing.vercel.app/)
 
 
 ## Construido con:
