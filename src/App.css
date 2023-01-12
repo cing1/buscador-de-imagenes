@@ -71,7 +71,10 @@ body{
     top: 2px;
 }
 
-
+.sect-img{
+    width: 100%;
+    background-color: #222;
+}
 
 .section-images{
     display: flex;
@@ -123,6 +126,7 @@ body{
     padding-bottom: 20px;
 }
 .btn-pag{
+    background-color: rgb(93, 106, 148);
     font-size: 1rem;
     border-radius: 6px;
     outline: none;
